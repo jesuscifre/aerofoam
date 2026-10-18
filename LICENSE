@@ -1,0 +1,12 @@
+AeroFoam
+Copyright (c) 2026 Jesús. Todos los derechos reservados.
+
+Este programa y su documentación son propiedad de su autor. No se concede ninguna licencia
+de uso, copia, modificación, distribución ni venta salvo autorización expresa y por escrito
+del autor.
+
+El programa se proporciona "tal cual", sin garantía de ningún tipo. Controla una máquina de
+corte por hilo caliente y ofrece estimaciones aerodinámicas: el usuario es responsable de
+comprobar el G-code y los resultados antes de usarlos.
+
+Los componentes de terceros que utiliza se rigen por sus propias licencias (ver THIRD_PARTY.md).

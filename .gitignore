@@ -1,0 +1,17 @@
+# Programas de terceros (no se distribuyen)
+RCK/
+
+# Generados al crear el instalador
+instalador/dist/
+instalador/build/
+instalador/salida/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos personales del usuario
+maquina.json
+materiales.json
+recientes.json
+proyectos/
